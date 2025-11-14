@@ -15,15 +15,14 @@ Technologies Used
 Installation
 Clone the repository: git clone https://github.com/afreenportfolio/Plant-Disease-Detection-System-CNN-Model-TensorFlow-Keras.git
 Install dependencies: pip install tensorflow keras numpy matplotlib
-Download dataset.
+Paste this link in browser & download dataset: [https://drive.google.com/file/d/12OS3a0bLn1zDnhqv5KRRH_BfFml6gCVX/view?usp=drive_link]
 
 Usage
-
-Train the model: Run train.py
-Predict: Use predict.py with an image path.
-View results and accuracy reports.
+- Train the model: Run [Plant_Disease_Detection_SystemC6_ipynb_txt.ipynb]
+- View results and accuracy reports.
 
 Contributing
-Contributions are welcome! Please fork the repo and submit a pull request.
+- Contributions are welcome! Please fork the repo and submit a pull request.
+
 License
-MIT License
+- MIT License
