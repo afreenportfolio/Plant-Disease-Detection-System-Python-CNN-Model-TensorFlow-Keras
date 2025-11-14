@@ -18,8 +18,9 @@ Install dependencies: pip install tensorflow keras numpy matplotlib
 Paste this link in browser & download dataset: [https://drive.google.com/file/d/12OS3a0bLn1zDnhqv5KRRH_BfFml6gCVX/view?usp=drive_link]
 
 Usage
-- Train the model: Run [Plant_Disease_Detection_SystemC6_ipynb_txt.ipynb]
+- Train the model: Download code from [https://github.com/afreenportfolio/Plant-Disease-Detection-System-CNN-Model-TensorFlow-Keras/blob/main/Plant_Disease_Detection_SystemC6_ipynb_txt.ipynb] and open it in Google Collab & run it
 - View results and accuracy reports.
+- Try to increase the accuracy from 89%!
 
 Contributing
 - Contributions are welcome! Please fork the repo and submit a pull request.
