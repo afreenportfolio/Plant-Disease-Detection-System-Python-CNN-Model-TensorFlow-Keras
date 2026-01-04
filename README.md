@@ -17,14 +17,14 @@ This project employs convolutional neural networks (CNN) to identify diseases in
 3. Tools: Google Jupyter Notebooks
 
 ## Installation
-- Clone the repository: `git clone https://github.com/afreenportfolio/Plant-Disease-Detection-System-Python-CNN-Model-TensorFlow-Keras`
+- Clone the repository: `git clone https://github.com/afreenportfolio/plant-disease-detection-system`
 - Install dependencies: `pip install tensorflow keras numpy matplotlib`
 - Download dataset: [Dataset](https://drive.google.com/file/d/12OS3a0bLn1zDnhqv5KRRH_BfFml6gCVX/view?usp=drive_link)
 
 ## Usage
-- Train the model: Download [Code](https://github.com/afreenportfolio/Plant-Disease-Detection-System-Python-CNN-Model-TensorFlow-Keras/blob/main/Plant_Disease_Detection_SystemC6_ipynb_txt.ipynb) and open it in Google Collab & run it
+- Train the model: Download [Code](https://github.com/afreenportfolio/plant-disease-detection-system/blob/main/Plant_Disease_Detection_SystemC6_ipynb_txt.ipynb) and open it in Google Collab & run it
 - View results and accuracy reports.
-- Try to increase the accuracy from 89%!
+- Try to increase the accuracy from **89%**!
 
 ## License
 - MIT License
